@@ -1,12 +1,6 @@
 {
-  "skullzowner": {
-    "hwid": null
-  },
-  "key2": {
-    "hwid": null
-  },
-  "key3": {
-    "hwid": null
-  }
+    "skullzowner": { "lock": LCK-4D4EB-F8719-32A7B },
+    "typezvip": { "lock": null },
+    "beta123": { "lock": null },
+    "testkey": { "lock": null }
 }
-
